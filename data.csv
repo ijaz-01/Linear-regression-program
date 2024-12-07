@@ -1,0 +1,11 @@
+product_id,product_name,category,price,quantity_sold,discount,customer_age,customer_location,target_column
+2001,Tablet,Electronics,500,20,12,29,New Jersey,1
+2002,Smartwatch,Electronics,250,35,10,33,Nevada,1
+2003,Microwave,Home Appliances,150,15,8,47,Illinois,0
+2004,Speakers,Electronics,120,18,5,31,Florida,1
+2005,Desk,Furniture,180,12,15,42,Arizona,0
+2006,Air Conditioner,Home Appliances,700,9,20,49,Texas,1
+2007,Projector,Electronics,300,28,7,38,Oregon,1
+2008,Dishwasher,Home Appliances,800,10,18,41,Ohio,0
+2009,Toaster,Kitchenware,60,25,4,30,California,1
+2010,VR Headset,Electronics,350,16,25,26,Michigan,1
